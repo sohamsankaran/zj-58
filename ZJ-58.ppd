@@ -28,6 +28,7 @@
 *OrderDependency: 10 AnySetup *PageSize
 *DefaultPageSize: X48MMY210MM
 
+*PageSize X48MMY48MM/58mm x 58mm:         "<</PageSize[136 136]/HWResolution[203 203]/ImagingBBox null>>setpagedevice"
 *PageSize X48MMY210MM/58mm x 210mm:         "<</PageSize[136 595]/HWResolution[203 203]/ImagingBBox null>>setpagedevice"
 *PageSize X48MMY297MM/58mm x 297mm:         "<</PageSize[136 842]/HWResolution[203 203]/ImagingBBox null>>setpagedevice"
 *PageSize X48MMY3276MM/58mm x 3276mm:       "<</PageSize[136 9286]/HWResolution[203 203]/ImagingBBox null>>setpagedevice"
@@ -38,18 +39,21 @@
 *OrderDependency: 10 AnySetup *PageRegion
 *DefaultPageRegion: X48mmY210mm
 
+*PageSize X48MMY48MM/58mm x 58mm:         "<</PageSize[136 136]/HWResolution[203 203]/ImagingBBox null>>setpagedevice"
 *PageRegion X48MMY210MM/58mm x 210mm:         "<</PageSize[164 595]/HWResolution[203 203]/ImagingBBox null>>setpagedevice"
 *PageRegion X48MMY297MM/58mm x 297mm:         "<</PageSize[164 842]/HWResolution[203 203]/ImagingBBox null>>setpagedevice"
 *PageRegion X48MMY3276MM/58mm x 3276mm:       "<</PageSize[164 9286]/HWResolution[203 203]/ImagingBBox null>>setpagedevice"
 
 *DefaultImageableArea: X48MMY210MM
 
+*ImageableArea X48MMY48MM:              "0 0 136 136"
 *ImageableArea X48MMY210MM:              "0 0 136 595"
 *ImageableArea X48MMY297MM:              "0 0 136 842"
 *ImageableArea X48MMY3276MM:             "0 0 136 9286"
 
 *DefaultPaperDimension: X48MMY210MM
 
+*PaperDimension X48MMY48MM:             "136 136"
 *PaperDimension X48MMY210MM:             "136 595"
 *PaperDimension X48MMY297MM:             "136 842"
 *PaperDimension X48MMY3276MM:            "136 9286"
